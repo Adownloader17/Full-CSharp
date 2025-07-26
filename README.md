@@ -17,7 +17,7 @@ Welcome to the **C# Course Repository** — a structured and hands-on path to ma
 
 ### 📚 C# Course Modules
 
-- [01-Introduction](/Modules/01-Introduction/HelloWorld.cs)  
+- [01-Introduction](Modules/01-Introduction/HelloWorld.cs)  
   Basic Structure of c sharp
 
 - [02-Reading and writing to console](./02-Readingandwritingtoconsole/)  
