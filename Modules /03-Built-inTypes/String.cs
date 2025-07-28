@@ -5,7 +5,7 @@ class StringDemo
     static void Main()
     {
         // Declaring string variables using double quotes
-        string name = "Ankita";
+        string name = "Ani";
         string city = "Mumbai";
 
         // Concatenation: Joining strings using + operator
